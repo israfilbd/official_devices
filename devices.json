@@ -466,13 +466,13 @@
    },
    {
       "brand": "Realme",
-      "codename": "RMX3371",
-      "name": "Q5 Pro / GT Neo 3T",
+      "codename": "RMX1901",
+      "name": "Realme X",
       "supported_versions": [
          {
-            "device_group": "",
-            "maintainer_name": "Abhishek Shukla",
-            "maintainer_url": "https://github.com/abhis699",
+            "device_group": "rmx1901_builder",
+            "maintainer_name": "м∂ ιѕяαƒιℓ",
+            "maintainer_url": "https://github.com/ij-israfil",
             "version_code": "fourteen",
             "version_name": "Fourteen",
             "xda_thread": ""
